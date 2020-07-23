@@ -28,3 +28,22 @@ Clients:
 - BTC miners
 - Low-net-worth individuals through signal service
 - Prop Firms
+
+---
+Trading Bots out there:
+
+[TorqueLabs](https://torquelabs.ai)
+
+[RedLineCoin](https://redlinecoin.com)
+
+[HodlBot](https://twitter.com/xietoni)
+
+---
+
+## Ideas
+
+Create an index with top 10 coins based on _____
+
+Using [fuzzy logic](https://medium.com/@abdulazizalghannami/modeling-trading-decisions-using-fuzzy-logic-ff21c431b961) to build strategies
+
+Martingale with stop loss
