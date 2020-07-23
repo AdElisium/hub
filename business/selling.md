@@ -14,18 +14,18 @@ __Body Language:__
 
 __AIDCC__
 
-1. Attention:
+1. __Attention:__ 
   * Start conversation straight to the point. No small-talk.
-2. Interest:
+2. __Interest:__
   * 60 second pitch on the idea that catches them or conversation ends there.
   * Info on the product
-3. Desire:
+3. __Desire:__
   * Why they want it
   * What's in it for them
-4. Confidence:
+4. __Confidence:__
   * Examples of happy clients
   * Reasons they can trust you
-5. Closure:
+5. __Closure:__
   * Key question that seals the deal. Shake hands after it.
 
 ---
