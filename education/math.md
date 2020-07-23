@@ -12,6 +12,8 @@ _Measurement_ - Paul Lockhart. Book about how math should be taught. The book is
 ---
 ## Math map
 
+![Error loading image](images/The_Map_of_Mathematics.png "The Map of Mathematics")
+
 ### Numbers and Counting
 ### Basic Operations
 ### Geometry
