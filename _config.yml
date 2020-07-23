@@ -1,0 +1,10 @@
+title: Information Hub
+author: Marc Goulding Tojar
+email: gouldingmarc@gmail.com
+description: Hub for information on all topics of interest
+github_username: MarcGoulding
+baseurl: /hub
+
+# Build settings
+markdown: redcarpet
+#theme: minima
