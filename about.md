@@ -14,4 +14,6 @@ P.S: I also run a hedgefund to pay the bills and buy schools.
 Contact me:
 
 - email: gouldingmarc@gmail.com
+- Phone: +44 789 442 8838
 - WhatsApp: +44 789 442 8838
+- LinkedIn: bit.ly/marcgoulding
