@@ -3,8 +3,15 @@ layout: page
 title: About
 ---
 
-This is the about page.
+Data Scientist applying engineering skills to the education system to try and make the world a better place.
 
-## Markdown title
+Everyone hated school, I'm here to fix it.
 
-__TODO:__ fill in
+P.S: I also run a hedgefund to pay the bills and buy schools.
+
+---
+
+Contact me:
+
+- email: gouldingmarc@gmail.com
+- WhatsApp: +44 789 442 8838

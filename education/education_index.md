@@ -1,3 +1,6 @@
-_ 
+---
+layout: page
+title: Education
+---
 
-foooood
+education_index
