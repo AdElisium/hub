@@ -1,11 +1,8 @@
+## [Education]({{site.baseurl}}{% link education/education_index.md %})
 
+Notes on how education should be in the world and how to reform schools.
 
-This is the main page
+## [Business]({{site.baseurl}}{% link business/business_index.md %})
 
-more text.
+Everything related to making money and things I do in life.
 
-[Link to a page]({{site.baseurl}}{% link pages/new_school_thoughts.md %})
-
-[Link to a about]({{site.baseurl}}{% link about.md %})
-
-[test]({{site.baseurl}}{% link test.md %})
