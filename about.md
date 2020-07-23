@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+---
 Data Scientist applying engineering skills to the education system to try and make the world a better place.
 
 Everyone hated school, I'm here to fix it.

@@ -7,7 +7,7 @@ What should a shool be like?
 What is the objective of sending kids to school? What is it that we're trying to achieve?
 
 What is the purpose of education in the first place? 
-
+---
 ## What should it teach?
 
 * How to be

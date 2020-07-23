@@ -9,7 +9,7 @@ _Measurement_ - Paul Lockhart. Book about how math should be taught. The book is
 
 13 Books about Math: https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da
 
-
+---
 ## Math map
 
 ### Numbers and Counting
@@ -22,7 +22,7 @@ _Measurement_ - Paul Lockhart. Book about how math should be taught. The book is
 ### Advanced Calculus
 ### Spreadsheets (Statistics)
 
-
+---
 ## History of MATHS
 1. Counting
 2. First equation by egyptians
@@ -35,7 +35,7 @@ _Measurement_ - Paul Lockhart. Book about how math should be taught. The book is
 Modern Mathematics can be broadly split into 2 areas:
 1. Pure Math: The study of Mathematics for its own sake.
 2. Applied Math: When you develop math to solve a real-world problem.
-
+---
 ### Pure Maths
 
 ####Number Systems
