@@ -1,3 +1,5 @@
+To the Heavens.
+
 ## [Education]({{site.baseurl}}{% link education/education_index.md %})
 
 Notes on how education should be in the world and how to reform schools.
