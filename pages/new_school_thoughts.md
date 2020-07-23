@@ -1,4 +1,3 @@
-# Thoughts on new schooling methods
 
 ## Opinions
 
