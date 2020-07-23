@@ -6,7 +6,17 @@ If you don't know who I am or what this is, [click here]({{site.baseurl}}{% link
 
 Notes on how education should be in the world and how to reform schools.
 
+- Thoughts
+- Ideas
+- Purpose of Education
+- What should a school teach?
+- Math
+- Data
+
 ## [Business]({{site.baseurl}}{% link business/business_index.md %})
 
 Everything related to making money and things I do in life.
 
+- Trading
+- Selling
+- Startups
