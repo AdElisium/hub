@@ -32,8 +32,9 @@ Ideas for my dream home.
 
 ## Design features
 
-1. Arab geometric style
+1. Arab geometric style & tiling
 2. Light Yellow stone exterior
+3. Columns
 
 ## Thoughts
 
