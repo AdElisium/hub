@@ -7,5 +7,4 @@ github_username: MarcGoulding
 baseurl: /hub
 
 # Build settings
-markdown: redcarpet
 theme: minima
