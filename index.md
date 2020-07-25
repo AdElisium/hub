@@ -20,3 +20,5 @@ Everything related to making money and things I do in life.
 - Trading
 - Selling
 - Startups
+- Real estate
+- Dropshipping
