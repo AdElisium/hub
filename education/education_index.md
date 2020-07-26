@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Education
 ---
 
 - [Thoughts]({{site.baseurl}}{% link education/thoughts.md %})
