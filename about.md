@@ -4,12 +4,9 @@ title: About
 ---
 
 ---
-Data Scientist applying engineering skills to the education system to try and make the world a better place.
 
-Everyone hated school, I'm here to fix it.
-
-P.S: I also run a hedgefund to pay the bills and buy schools.
-
+Senior Data Scientist applying engineering knowledge to the markets to gain a competitive edge. 
+I successfully run a hedgefund with investments in all types of currencies - fiat and crypto.
 ---
 
 Contact me:
