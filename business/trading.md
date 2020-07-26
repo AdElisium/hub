@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: Fund
 ---
 
 #### What I need to setup a hedgefund:
