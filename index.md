@@ -13,10 +13,19 @@ Notes on how education should be in the world and how to reform schools.
 - Math
 - Data -->
 
-## [Business]({{site.baseurl}}{%link business/business_index.md%})
+## Business
 
-- Trading
-- Selling
-- Startups
-- Real estate
-- Dropshipping
+- [Trading]({{site.baseurl}}{%link business/trading.md%})
+- [Selling]({{site.baseurl}}{%link business/selling.md%})
+- [Startups]({{site.baseurl}}{%link business/startups.md%})
+- [Hedgefund]({{site.baseurl}}{%link business/hedgefund.md%})
+- [Real Estate]({{site.baseurl}}{%link business/real_estate.md%})
+
+### Dropshipping:
+
+How to setup shopify website: 
+https://www.youtube.com/watch?v=KIiD4MA5sfk
+
+Biaheza 1-week challenge: 
+https://www.youtube.com/watch?v=ccgc2vuArw0
+
