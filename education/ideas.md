@@ -18,3 +18,13 @@ Having students learn at their own pace makes a sense of competition arise natur
 
 * All students are required to wear screen-protecting glasses when sitting in front of a computer. Those who already wear glasses can use a cover that hangs on the glasses and acts as a bluelight filter.
 
+## Resources
+
+* Khan Academy
+* Socratic (powered by Google AI)
+* [Bill Gates books he's  read](https://www.goodreads.com/review/list/62787798-bill-gates?shelf=read&sort=rating)
+* The last airbender
+
+## Quotes from The Last Airbender
+
+The true mind can weather all the lies and illusions without being lost. The true heart can tough the posion of hatred without being hard. Since beginningless time, darkness thrives in the void, but always yields to purify right.

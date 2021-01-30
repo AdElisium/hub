@@ -62,3 +62,6 @@ If education is treated as a business, which it is, how can a <10% client satisf
 
 In the dichotomy between learning through theory and learning through practice, theory doesn't help with being able to apply the knowledge. And practice doesn't give an underlying understanding of how it works to be able to improve on current implementations.
 A possible solution is to first learn through practice and then add the theory to gain expertise. Basically you improve your knowledge by adding theory to a pre-existing understanding of the practice.
+
+---
+Hegel: Evil lies in he who sees evil everywhere.

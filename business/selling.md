@@ -8,6 +8,7 @@ __Body Language:__
 
   1. Firm handshake
   2. Sit slow
+  3. Always cross legs
   3. speak slow
   4. speak deep
   5. point at things with pen, not finger.
@@ -31,3 +32,5 @@ __AIDCC__
 ---
 
 Any questions they ask are perfect moment to throw question back at them in a way that they imagine themselves having already bought the product.
+
+They need to nod in their head 3 times.
