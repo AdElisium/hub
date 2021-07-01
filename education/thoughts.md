@@ -65,3 +65,6 @@ A possible solution is to first learn through practice and then add the theory t
 
 ---
 Hegel: Evil lies in he who sees evil everywhere.
+
+---
+Me: Si amas a las personas por cómo son, te dará más igual como son. Esto es algo que ocurre mucho entre hermanos y se puede aplicar a las demás personas también si eres capaz de amarlas.

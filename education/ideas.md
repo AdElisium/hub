@@ -83,4 +83,10 @@ Having students learn at their own pace makes a sense of competition arise natur
 
 “Water brings healing and life. But fire brings only destruction and pain. It forces those of us burdened with its care to walk a razor’s edge between humanity and savagery. Eventually, we are torn apart.” – Jeong Jeong
 
+## Other quotes
 
+"I want to change their minds, not kill them for weaknesses we all possess" - Gandhi
+
+"There are unjust laws as there are unjust men." - Gandhi
+
+"The only devils in the world are those running around in our own hearts, and that is where all the battles ought to be fought" - Gandhi
