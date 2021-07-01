@@ -5,7 +5,7 @@ title: About
 
 ---
 
-Senior Data Scientist applying engineering knowledge to the markets to gain a competitive edge. 
+Data Scientist applying engineering knowledge to the markets to gain a competitive edge. 
 I successfully run a hedgefund with investments in all types of currencies - fiat and crypto.
 
 ---
