@@ -27,4 +27,60 @@ Having students learn at their own pace makes a sense of competition arise natur
 
 ## Quotes from The Last Airbender
 
-The true mind can weather all the lies and illusions without being lost. The true heart can tough the posion of hatred without being hard. Since beginningless time, darkness thrives in the void, but always yields to purify right.
+"The true mind can weather all the lies and illusions without being lost. The true heart can tough the posion of hatred without being hard. Since beginningless time, darkness thrives in the void, but always yields to purify right."" - Ancient Lion Turtle 
+
+"Failure is only the opportunity to begin again. Only this time more wisely" - Iroh
+
+"Sometimes, the best way to solve your own problems is to help someone else" - Iroh
+
+"Good times become good memories, but bad times make good lessons." Iroh
+
+"It is usually best to admit mistakes when they occur and to seek to restore honor" - Iroh
+
+"You Must Never Give In To Despair. Allow Yourself To Slip Down That Road, And You Surrender To Your Lowest Instincts. In The Darkest Times, Hope Is Something That You Give Yourself. That Is The Meaning Of Inner Strength." - Iroh
+
+"Sometimes life is like [a] dark tunnel. You can't always see the light at the end of the tunnel, but if you just keep moving, you will come to a better place." - Iroh
+
+"While it is always best to believe in oneself, a little help from others can be a great blessing." - Iroh
+
+"Pride is not the opposite of shame but its source. True humility is the only antidote to shame." - Iroh
+
+"Life happens wherever you are, whether you make it or not." - Iroh
+
+"Be careful what you wish for, might just come true." - Me
+
+"Protection and power are overrated. I think you are to choose happiness and love." - Iroh
+
+"The greatest illusion of this world is the illusion of separation. Things you think are separate and different are actually one and the same." - Guru Pathik
+
+"We've created an era of fear in the world, and if we don't want the world to destroy itself, we need to replace it with an era of peace and kindness." - Zuko
+
+"I wanted to take out all of my anger on Yon Rha. But I couldn't. I don't know if it's because I'm too weak... or if because I'm strong enough not to." - Katara
+
+"The past can be a great teacher." - Aang
+
+ "When we hit our lowest point, we are open to the greatest change." - Aang
+
+ "If I try, failure is possible. If I don't try, failure is guaranteed." - Me
+
+ "There are reasons each of us are born. We have to find those reasons." - Iroh
+
+ "You stand alone. That has always been your greatest weakness." - Iroh
+
+ "It Is Important To Draw Wisdom From Different Places. If You Take It From Only One Place, It Becomes Rigid And Stale." - Iroh
+
+ "The Strength Of Your Heart Makes You Who You Are." - Katara
+
+ "But I Know Now That No One Can Give You Your Honor. It's Something You Earn For Yourself By Choosing To Do What's Right." - Zuko
+
+"You must look within yourself to save yourself from your other self. Only then will your true self reveal itself." - Iroh
+
+“You are not the man you used to be. You are stronger and wiser and freer than you ever used to be. And now you have come at the crossroads of destiny. It’s time for you to choose. It’s time for you to choose good.” – Iroh
+
+“Simple: girls are better at fixing pants than guys, and guys are better at hunting and fighting and stuff like that. It’s just the natural order of things.” – Sokka
+
+“If you want to be a bender, you have to let go of fear.” - Aang
+
+“Water brings healing and life. But fire brings only destruction and pain. It forces those of us burdened with its care to walk a razor’s edge between humanity and savagery. Eventually, we are torn apart.” – Jeong Jeong
+
+

@@ -19,6 +19,7 @@ Ideas for my dream home.
 ---
 
 ## Desires
+
 1. Tennis/basketball court.
 2. Jacuzzi
 3. Outdoor table closer to kitchen than indoor.
@@ -29,6 +30,7 @@ Ideas for my dream home.
 8. Ice cold bath/pool
 9. Trampoline next to pool at ground level
 10. Pool bar where you can sit inside the pool
+11. Fully equipped outdoor kitchen
 
 ## Design features
 
@@ -47,3 +49,5 @@ $800 / sqft
 
 ## Materials
 info@kitebricks.com - Cheap bricks
+Structural Infrastructre Panels (SIPs)
+Green Rhino Building system - grbuildingsystems@gmail.com
