@@ -6,14 +6,8 @@ If you don't know who I am or what this is, [click here]({{site.baseurl}}{%link 
 
 - [Trading]({{site.baseurl}}{%link business/trading.md%})
 - [Selling]({{site.baseurl}}{%link business/selling.md%})
-- [Startups]({{site.baseurl}}{%link business/startups.md%})
 - [Real Estate]({{site.baseurl}}{%link business/real_estate.md%})
 
-### Dropshipping:
+## Book printing
 
-How to setup shopify website: 
-https://www.youtube.com/watch?v=KIiD4MA5sfk
-
-Biaheza 1-week challenge: 
-https://www.youtube.com/watch?v=ccgc2vuArw0
-
+Bible paper: zxprinter.com
