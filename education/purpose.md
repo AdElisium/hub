@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*"My escuela es mi segunda casa, pero mi casa es mi primera escuela."*
+
 What should a shool be like?
 
 What is the objective of sending kids to school? What is it that we're trying to achieve?

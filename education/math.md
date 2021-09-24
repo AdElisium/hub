@@ -4,6 +4,8 @@ layout: default
 
 Math.
 
+Everyone can learn math. ([link](https://www.youtube.com/watch?v=3icoSeGqQtY))
+
 ## Math Books
 _Measurement_ - Paul Lockhart. Book about how math should be taught. The book is a powerful criticism on the prevalent curriculum of Mathematics in elementary, middle and high schools
 
@@ -136,3 +138,12 @@ Tries to work out the properties of mathematics itself. What the basis of all th
 Mathematical logic - a famous result is Godel's incompleteness theorems. These theorems imply that it is all made up by us humans.
 
 Theory of computation - different models of computing and how efficient they are at solving problems. Containc complexity theory with looks at what is and isn't computable and how much time and memory you need to do something, which for most interesting problems is an insane amount.
+
+
+## Resources:
+
+Help Engineers Learn Math (HELM):
+* [Guide](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook49/students_guide.pdf)
+* [Workbooks](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/wbooks_fulllist.html)
+
+[National Numeracy Challenge](https://www.nationalnumeracy.org.uk/challenge/)
