@@ -19,3 +19,5 @@ Books of interest:
 * 12 Rules for life - Jordan Peterson
 * Untamed - Glennon Doyle (For Esme)
 * The monk who sold his ferrari / The 7 stages to self-awakening - Robin Sharma
+
+MOOCs = Massive Open Online Courses -> Provided by many universitites
